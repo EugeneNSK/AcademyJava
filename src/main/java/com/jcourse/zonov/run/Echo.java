@@ -9,7 +9,7 @@ public class Echo {
 
     public static void main(String[] args) {
 
-     input();
+//     input();
      theGame();
 
     }
